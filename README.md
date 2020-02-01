@@ -1,3 +1,5 @@
+This is fork Nohac/laravel-graphiql
+
 # GraphiQL for Laravel
 
 This package provides an easy way to include the [GraphiQL UI](https://github.com/graphql/graphiql) within your laravel project.
@@ -9,10 +11,10 @@ Current included version: `0.11.11`
 Add this to your `composer.json` file:
 
 ```json
-"noh4ck/graphiql": "@dev"
+"alexanderminin/graphiql": "@dev"
 ```
 
-or run `composer require "noh4ck/graphiql:@dev"`
+or run `composer require "alexanderminin/graphiql:@dev"`
 
 If you have Laravel 5.5 or above, automatic package discovery will register the provider automatically.
 If not, open your `config/app.php` and add this line in the `providers` section:
