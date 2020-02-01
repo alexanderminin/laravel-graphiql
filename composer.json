@@ -1,5 +1,5 @@
 {
-  "name": "noh4ck/graphiql",
+  "name": "alexanderminin/graphiql",
   "description": "Graphiql UI for laravel",
   "keywords": [
     "laravel",
@@ -9,8 +9,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Jonas Rudlang",
-      "email": "jonas.rudlang@gmail.com"
+      "name": "Alexander Minin",
+      "email": "a.s.minin@me.com"
     }
   ],
   "require": {
